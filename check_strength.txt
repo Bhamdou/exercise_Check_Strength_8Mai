@@ -1,0 +1,4 @@
+This code creates a simple app to check password strength. User can enter the password and click on the 
+“Check Strength” button to check the strength of the entered password. Password strength
+(weak, medium, or strong) is displayed based on the criteria used in the code.
+Parameters can be modified to suit your security requirements.
